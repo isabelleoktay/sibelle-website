@@ -1,10 +1,9 @@
-import React from "react";
-import "../index.css";
+import React from 'react';
 
 const LandingPageButton = props => {
     return (
         <div>
-            <button className="text-lg font-bold gold-button py-3 px-4 font-playfair outline outline-2" type="button">
+            <button className="font-bold text-slate-300 py-2 px-[33%] font-playfair outline outline-1" type="button">
                 <a href={props.url}>{props.text}</a>
             </button>
         </div>

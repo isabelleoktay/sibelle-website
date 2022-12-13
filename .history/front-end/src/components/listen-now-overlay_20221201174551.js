@@ -31,7 +31,7 @@ const ListenNowOverlay = () => {
         <div className="font-playfair relative">
             <div className="bg-clip-text tracking-widest gold-gradient">
                 <h1 className="text-[40px]">Andromeda Sinned</h1>
-                <h2 className="text-4xl mb-6">Debut Song Out Now</h2>
+                <h2 className="text-4xl mb-8">Debut Song Out Now</h2>
             </div>
             <div>
                 <LandingPageButton url="https://www.lanadelrey.com/" text="Spotify"/>

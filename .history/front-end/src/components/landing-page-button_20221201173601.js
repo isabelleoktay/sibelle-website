@@ -4,7 +4,7 @@ import "../index.css";
 const LandingPageButton = props => {
     return (
         <div>
-            <button className="text-lg font-bold gold-button py-3 px-4 font-playfair outline outline-2" type="button">
+            <button className="font-bold gold-button text-slate-300 py-2 px-2 font-playfair outline outline-1" type="button">
                 <a href={props.url}>{props.text}</a>
             </button>
         </div>

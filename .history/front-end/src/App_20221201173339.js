@@ -8,7 +8,7 @@ function App() {
       <div>
         <Navigation/>
       </div>
-      <div className="grid place-items-center h-screen px-[10%]">
+      <div className="grid place-items-center h-screen">
         <ListenNowOverlay/>
       </div>
     </div>
